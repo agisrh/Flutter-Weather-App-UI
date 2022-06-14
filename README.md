@@ -1,12 +1,10 @@
 # weather_app
 
-A new Flutter project.
+Change your api key on lib/core/config/env.dart
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-Change your api key on lib/core/config/env.dart
 
 A few resources to get you started if this is your first Flutter project:
 
